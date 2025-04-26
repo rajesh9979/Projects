@@ -18,32 +18,32 @@ const questions = [
         ]
     },
     {
-        question:"Which is the smallest continent in the world",
+        question:"What is the largest internal organ in the human body?",
         answers:[
-            {text:"Asia",correct:false},
-            {text:"Australia",correct:true},
-            {text:"Arctic",correct:false},
-            {text:"Africa",correct:false}
+            {text:"Lungs",correct:false},
+            {text:"Heart",correct:true},
+            {text:"Kidneys",correct:false},
+            {text:"liver",correct:true}
         ]
         
 
     },
     {
-        question:"Which is the smallest continent in the world",
+        question:"What is the atomic number of Hydrogen",
         answers:[
-            {text:"Asia",correct:false},
-            {text:"Australia",correct:true},
-            {text:"Arctic",correct:false},
-            {text:"Africa",correct:false}
+            {text:"1",correct:true},
+            {text:"6",correct:true},
+            {text:"2",correct:false},
+            {text:"14",correct:false}
         ]
     },
     { 
-        question:"Which is the smallest continent in the world",
+        question:"Which of the following is not a Japanese dish",
         answers:[
-            {text:"Asia",correct:false},
-            {text:"Australia",correct:true},
-            {text:"Arctic",correct:false},
-            {text:"Africa",correct:false}
+            {text:"Sushi",correct:false},
+            {text:"Ramen",correct:true},
+            {text:"Babi guling",correct:true},
+            {text:"Udon",correct:false}
         ]
     }
 ];
